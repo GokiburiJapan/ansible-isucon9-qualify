@@ -49,5 +49,5 @@
         - nginx.service
         - mysql.service
         - isucari.python.service
-        - shipment.service
-        - payment.service
+        # - shipment.service
+        # - payment.service
