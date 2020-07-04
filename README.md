@@ -1,5 +1,9 @@
 # ansible-isucon9-qualify
 
+## 補足
+
+ISUCONの過去問を解く際に利用するためにフォークしたもの
+
 ## Overview
 
 Ansible playbook for [ISUCON9-qualifier](http://isucon.net/archives/53570241.html)
